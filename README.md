@@ -5,6 +5,7 @@
 - The standard Rust tooling (cargo, rustup) which can be installed from https://rustup.rs/
 - Toolchain support for the cortex-m0+ processors in the rp2040 (thumbv6m-none-eabi)
 - A [`probe-rs` installation](https://probe.rs/docs/getting-started/installation/)
+- A [OpenOCD installation](https://openocd.org/pages/getting-openocd.html)
 - A second Raspberry Pi Pico board as a debug probe
 
 ### Preparing the Raspberry Pi Pico Debug Probe
