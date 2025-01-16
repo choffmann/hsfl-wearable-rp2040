@@ -25,6 +25,7 @@ pio-proc = "0.2"
 pio = "0.2.1"
 portable-atomic = { version = "1.6.0", features = ["critical-section"] }
 log = "0.4"
+embassy-dht = "0.1.9"
 
 # cargo build/run
 [profile.dev]
